@@ -320,9 +320,8 @@ If you think the roadmap can be improved, please open a PR with any updates and 
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
 
 ## Authors
 
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
-- [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).
+- [Deepak Patidar](https://github.com/DeepakDarkiee) -  Author & Maintainer.
